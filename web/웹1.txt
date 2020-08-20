@@ -1,0 +1,37 @@
+코딩 - 원인 (소스(출처, 근원), 코드) 
+      - 결과 (애플리케이션, 프로그램) / 웹 - 웹 페이지, 웹 애플리케이션, 웹 앱
+확인할 절차 리스트 - 설치 - 실행 - 배포
+
+Tag - 시작태그<> 끝나는 태그</>
+<u>	 - 밑줄
+<strong>	 - 두껍게(중요)
+
+h1 html tag로 검색 - https://www.w3schools.com
+HTML <h1>–<h6> 요소 -  6단계의 구획 제목(HTML 제목을 정의하는 데 사용)
+<img src="Yeosu.jpg">
+<img src="https://source.unsplash.com/random" alt="Unsplash Source"> - 사진 계속 바뀜
+
+요소검사-콘솔창
+알림창으로 뜨기 - alert("마스크 쓰세요^^")
+음성으로 뜨기 - speechSynthesis.speak(new SpeechSynthesisUtterance("마스크 쓰세요!"));
+
+유튜브 영상 떠가기
+공유 -  <>모양의 퍼가기 - 소스
+
+https://seomal.org - WEB1클릭 - 생활코딩 강의보기
+
+title이나 meta charset같은거 - 내용설명 - head로 묶기
+h1이나 img같은거 - 내용 - body로 묶기
+
+지식인 <h1> - 일반인 <u>
+
+요소검사 - 소스창 - 하고있던 소스창
+
+ul은 점으로 목차, 목록만 ol은 숫자목차
+
+웹의 고향 - 스위스
+ - LHC - cern - 팀 버너스리(1980~)
+팀버너스리 - WEB창시(하이퍼텍스트+ml+인터넷)
+세계 최초 웹서비스 info.cern.ch
+		
+//display:inline, block, none;		
